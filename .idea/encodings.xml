@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/server/src/main/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/me/aandster/uon_webeng21_a1/htmlgen/AbstractHtmlGen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/me/aandster/uon_webeng21_a1/servlet/MainServlet.java" charset="UTF-8" />
+  </component>
+</project>
